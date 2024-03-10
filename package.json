@@ -1,0 +1,22 @@
+{
+  "name": "cli-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "types": "inquirer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.25"
+  },
+  "description": ""
+}
